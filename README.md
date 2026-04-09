@@ -1,6 +1,6 @@
 ## Hi, I'm James 👋
 
-* 🇺🇸 Fighting traffic in the DMV
-* 🔐 Engineering backend security solutions
-* ✈️ Intern at Otto Pilot Software
-
+🔧 Backend engineer building in Java / Spring Boot
+🛡️ Active TS/SCI clearance
+🎓 Incoming Georgia Tech OMSCS, Fall 2026
+💼 SkillBridge intern at Otto Pilot Software
